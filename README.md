@@ -77,7 +77,8 @@ Hit get tags to get all tags from PLC.
 
 
 
-Add your column names ( up to 8 ).  If you dont add them they will be blank!!
+Add your column names ( up to 8 ).  If you dont add them they will be blank!! Hit change to change name.
+If ok the name textbox should go blank and you select your next column name.
 
 
 ![column_name_Change](https://github.com/user-attachments/assets/be0a9ab9-71d8-465f-b947-534b4d00feb6)
