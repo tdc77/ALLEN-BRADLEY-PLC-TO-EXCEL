@@ -222,7 +222,8 @@ Hit the sum button to get some of the column
 
 
 
-Enter Lower spec Limit and Upper spec limit for CPK, then hit cpk to get cpk of column.
+Enter Lower spec Limit and Upper spec limit for CPK, then hit cpk to get cpk of column. Just
+dont look at my numbers, theyre backwords for usl and lsl!
 
 
 ![cpkData](https://github.com/user-attachments/assets/20611650-cdfd-4608-94a8-d1a2a1e9019e)
