@@ -24,8 +24,12 @@ FIRST ! you must change filepath to where you want data stored.
 
 
 
+
 Set IP of your PLC, hit Save IP
 ![BeginIP](https://github.com/user-attachments/assets/0d2db199-a17c-4854-9d1a-d3ed70608554)
+
+
+
 
 
 IF valid IP address i twill say saved
@@ -33,8 +37,19 @@ IF valid IP address i twill say saved
 
 
 
+
+
+
+
+
 Add your collection interval in seconds.
 ![addintervalsec](https://github.com/user-attachments/assets/e48c3ce1-87cc-4d30-83ce-93706e418e37)
+
+
+
+
+
+
 
 
 
@@ -46,8 +61,22 @@ Hit get tags to get all tags from PLC.
 
 
 
+
+
+
+
+
+
 Add your column names ( up to 8 ).  If you dont add them they will be blank!!
 ![column_name_Change](https://github.com/user-attachments/assets/be0a9ab9-71d8-465f-b947-534b4d00feb6)
+
+
+
+
+
+
+
+
 
 
 
@@ -58,8 +87,20 @@ and multitags are just name.  Hit button next to Entry box to start collecting d
 
 
 
+
+
+
+
+
+
 You should see data in the data(tree view ) now.
 ![dataview](https://github.com/user-attachments/assets/c3a73e01-dbfd-4905-82e1-3d132d0d0104)
+
+
+
+
+
+
 
 
 
@@ -72,8 +113,21 @@ Hit stop logging button to stop logging.
 
 
 
+
+
+
+
+
+
+
 To analyze data hit the data button.
 ![databtn](https://github.com/user-attachments/assets/14495334-c729-481d-84de-d41d2727a803)
+
+
+
+
+
+
 
 
 
@@ -85,8 +139,20 @@ select excel file you want to analyze. You should be able to open any excel file
 
 
 
+
+
+
+
+
+
 The headers of the columns should show up ( if they are the top row!! )
 ![headersdata](https://github.com/user-attachments/assets/901c7dd8-096d-4fe2-9bc2-783985102872)
+
+
+
+
+
+
 
 
 
@@ -97,13 +163,30 @@ Enter the column you want to analyze and hit get column the textbox should load 
 
 
 
+
+
+
+
+
+
 Hit Average button to get the average of the column.
 ![avgdata](https://github.com/user-attachments/assets/5fe1cc48-d017-4715-b1cf-3e4440f16a70)
 
 
 
+
+
+
+
+
+
 Hit the sum button to get some of the column
 ![sumdata](https://github.com/user-attachments/assets/62a90735-26f8-4f53-9f66-a47980244e90)
+
+
+
+
+
 
 
 
