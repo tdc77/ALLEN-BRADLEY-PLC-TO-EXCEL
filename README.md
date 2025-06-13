@@ -5,7 +5,7 @@ I have added the small test program( v32) and the excel sheet it creates.
 Revised the GUI for much cleaner look.
 
 4-11-25 removed unused import from main file.
-4-20-25:  Added Gridview like table at bottom of page to keep track in real time the data being read. (V3 File)( see photo in Instructions )
+4-20-25:  Added Gridview like table at bottom of page to keep track in real time the data being read.
 
 [ALLEN BRADLEY PLC TO EXCEL INSTRUCTIONS.docx](https://github.com/user-attachments/files/19827565/ALLEN.BRADLEY.PLC.TO.EXCEL.INSTRUCTIONS.docx)
 
