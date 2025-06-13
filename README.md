@@ -18,6 +18,11 @@ PLCdata_da.py file.
 
 This file now contains some data analysis on a separate gui page. you can load an excel sheet, pick a column from excel sheet to get sum, avg, or cpk from that column of data.
 
+FINAL UPDATE 6-13-25!!! I have added a checkbox to create a new excel sheet at midnight so you can continuously gather data and keep it separated by day.
+Also added a graph feature on data page, you can select starting from the beginning of the file how many points you want to plot.
+This will likely be the final update for this program as its gotten bigger than I expected and really should have been put into classes to make 
+it more readable.  Oh well.  New pics of updates at end.
+
 
 FIRST ! you must change filepath to where you want data stored.
 
@@ -225,8 +230,38 @@ Hit the sum button to get some of the column
 Enter Lower spec Limit and Upper spec limit for CPK, then hit cpk to get cpk of column. Just
 dont look at my numbers, theyre backwords for usl and lsl!
 
-
 ![cpkData](https://github.com/user-attachments/assets/20611650-cdfd-4608-94a8-d1a2a1e9019e)
+
+
+
+
+
+
+
+
+
+UPDATE 6-13-25.
+Check this box if you want to create new sheets at midnight.
+
+![createnewsheet](https://github.com/user-attachments/assets/1b01d861-ec25-4b67-9d88-9310d2f808cb)
+
+
+
+
+
+
+
+
+You can now select graph to graph out points you want.
+
+
+![graph](https://github.com/user-attachments/assets/e457398d-7b88-4ae7-b527-318d8eca5fec)
+
+
+
+
+
+
 
 
 Hit close to close the data gui.
