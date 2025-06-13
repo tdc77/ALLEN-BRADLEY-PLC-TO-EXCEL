@@ -228,7 +228,7 @@ Hit the sum button to get some of the column
 
 
 Enter Lower spec Limit and Upper spec limit for CPK, then hit cpk to get cpk of column. Just
-dont look at my numbers, theyre backwords for usl and lsl!
+dont look at my numbers, theyre backwords for usl and lsl!  Hit close to close the data gui.
 
 ![cpkData](https://github.com/user-attachments/assets/20611650-cdfd-4608-94a8-d1a2a1e9019e)
 
@@ -252,7 +252,7 @@ Check this box if you want to create new sheets at midnight.
 
 
 
-You can now select graph to graph out points you want.
+You can now select graph to graph out points you want from the column data you selected.
 
 
 ![graph](https://github.com/user-attachments/assets/e457398d-7b88-4ae7-b527-318d8eca5fec)
@@ -264,4 +264,4 @@ You can now select graph to graph out points you want.
 
 
 
-Hit close to close the data gui.
+
