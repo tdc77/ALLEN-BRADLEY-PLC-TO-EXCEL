@@ -96,7 +96,7 @@ If ok the name textbox should go blank and you select your next column name.
 
 
 Add what you data you want to retrieve--be it an array, single tag, udt, ot multi-single tags.
-The array sintax is arrayname{n} n=number of indexes to read.  udt id just udt name, as well as singlr
+The array sintax is arrayname{n} n=number of indexes to read.  udt is just udt name, as well as single
 and multitags are just name.  Hit button next to Entry box to start collecting data.
 
 
